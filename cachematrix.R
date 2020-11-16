@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 First we define a special matrix, in which we will set the values of the matrix, then get the values of the matrix, 
-and then set the function for inverting the matrix (solve), and then getting the inverse values of the matrix
+and then set the function for inverting the matrix (inverse), and then getting the inverse values of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         i<-NULL
